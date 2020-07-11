@@ -1,0 +1,40 @@
+body        {
+            background-color: #F3F1FF;
+            }
+
+.navbar img {
+            width: 40.42px;
+            }
+
+.player img {
+            width: 56px;
+            }
+
+.blog img   {
+
+            width: 177px;
+            }
+
+.text-color {
+            color: #562EFF;
+            }
+
+hr          {
+            border: 1 px;
+            }
+
+.card       {
+            border: none;
+            border-radius: 10px;
+            box-shadow: 1px 1px 10px lightgray;
+            }
+
+#courses    {
+            background-color: white;
+            }
+
+.btn        {
+            background-color: #FFE4E8;
+            color: #FF4A60;
+            border: none;
+            }
